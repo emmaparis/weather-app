@@ -1,0 +1,35 @@
+:root {
+    --main: rgb(86, 133, 237);
+}
+nav {
+    color: var(--main);
+}
+h1 {
+    font-size: 3rem;
+    padding: 1rem;
+}
+button{
+    background-color: var(--main);
+}
+nav h2 {
+    font-size: 2rem;
+}
+nav h3 {
+    font-size: 1.2rem;
+}
+.hide {
+    display:none;
+}
+li {
+    line-height: 3rem;;
+}
+.searchresults  {
+    line-height: 5em;
+    font-size: large;
+}
+main h2 {
+    font-size: 2em;
+}
+main h3,h5 {
+    font-size: 1.5em;
+}
